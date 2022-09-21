@@ -1,3 +1,4 @@
+![github gif](https://user-images.githubusercontent.com/85190876/191494436-2d3649ae-86ef-45e4-8aef-6d8b094211f1.gif)
 
 <h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
 <h3 align="center">A first year undergraduate student at Guru nanak dev engineering college ludhiana, I am pursuing B.Tech.</h3>
