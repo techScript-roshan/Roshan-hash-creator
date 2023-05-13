@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan-hash-creator&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-hash-creator" /> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Roshan-hash-creator](https://github.com/Roshan-hash-creator)
 
